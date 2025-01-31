@@ -32,6 +32,7 @@ This project analyzes online course data to identify key trends in category pref
    git clone https://github.com/your-repo/online-courses-analysis.git
    ```
 2. Open the Power BI file (`.pbix`) to explore the interactive dashboard.
+   
    ![image](https://github.com/user-attachments/assets/b3254562-08f1-4c01-9352-a440388e5fd0)
 
 
