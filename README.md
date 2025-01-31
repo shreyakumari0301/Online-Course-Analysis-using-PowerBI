@@ -39,3 +39,6 @@ If you have suggestions for improving this analysis, feel free to submit a pull 
 
 ## License
 This project is licensed under the MIT License.
+
+## Contact
+Author: Shreya Kumari Email: 23f2003785@ds.study.iitm.ac.in GitHub: shreyakumari0301
